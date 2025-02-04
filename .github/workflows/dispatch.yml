@@ -11,5 +11,5 @@ jobs:
         run: |
           curl -X POST -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.REPO_PAT }}" \
-          https://api.github.com/repos/semaeopus/semaeopus-wikisite-host/dispatches \
+          https://api.github.com/repos/ArchetypalTech/wiki-host--semaeopus/dispatches \
           -d '{"event_type":"TRIGGER_BUILD"}'
