@@ -67,7 +67,3 @@ Noise.Silence(deviceName)
 
 **Notes**: Silences the noise, principally from an AI perspective. Will
 attempt to stop the audio if this noise was set up with an end event.
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

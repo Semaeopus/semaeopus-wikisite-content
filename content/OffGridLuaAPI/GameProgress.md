@@ -76,7 +76,3 @@ GameProgress.GetAll(table)
 **Description**: Fills a table with all GameProgress data
 
 **Returns**: Nothing
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

@@ -4,11 +4,7 @@ Particles
 Description
 -----------
 
-The Particles API allows modders to trigger behaviours on the particle
-systems attached to mission objects and their children. For more
-information see [Unity's
-documentation](https://docs.unity3d.com/Manual/class-ParticleSystem.html)
-on Particle Systems
+`The Particles API allows modders to trigger behaviours on the particle systems attached to mission objects and their children. For more information see `[`Unity's`` ``documentation`](https://docs.unity3d.com/Manual/class-ParticleSystem.html)` on Particle Systems`
 
 Functions
 ---------
@@ -32,10 +28,10 @@ emitting
 **Returns**: Nothing
 
 **Notes**: Sets the particle systems into play mode and enables emitting
-(if it has been disabled).
-
-`                       If the particle system has been paused, then this resumes playing from the previous time.`  
-`                       If the particle system has stopped, then the system starts from time 0, and, if it is relevant, the startDelay is applied.`
+(if it has been disabled). If the particle system has been paused, then
+this resumes playing from the previous time. If the particle system has
+stopped, then the system starts from time 0, and, if it is relevant, the
+startDelay is applied.
 
 ### Pause
 
@@ -122,7 +118,3 @@ Particles.IsPlaying(deviceName, searchChildren)
 **Description**: Is the particle system playing right now?
 
 **Returns**: bool
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

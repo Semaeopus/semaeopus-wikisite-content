@@ -18,9 +18,8 @@ Mission.CompletedMissionSetup_Always()
 ```
 
 **Description**: This should be called at the end of
-MissionSetup\_Always()
-
-`                       After it the game will either load last save and start, or execute MissionSetup_NoSave()`
+MissionSetup\_Always() After it the game will either load last save and
+start, or execute MissionSetup\_NoSave()
 
 **Returns**: Nothing
 
@@ -31,9 +30,8 @@ Mission.CompletedMissionSetup_NoSave()
 ```
 
 **Description**: This should be called at the end of
-MissionSetup\_NoSave()
-
-`               Call this AFTER all Devices have been connected to their networks. This allows DataPoints to be processed correctly.`
+MissionSetup\_NoSave() Call this AFTER all Devices have been connected
+to their networks. This allows DataPoints to be processed correctly.
 
 **Returns**: Nothing
 
@@ -44,9 +42,8 @@ Mission.MissionCompleted()
 ```
 
 **Description**: This should be called when the final objective of the
-mission has been completed
-
-`                       It will trigger the game to fade to black and return to the main menu`
+mission has been completed It will trigger the game to fade to black and
+return to the main menu
 
 **Returns**: Nothing
 
@@ -470,7 +467,3 @@ table of strings. For the head props and the the gestures the string
 and gestures, respectively, in the wander NPCs. Also for the color
 textures and metal textures the string "Default" can be used for the
 character's default textures.
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

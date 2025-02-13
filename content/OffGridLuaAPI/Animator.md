@@ -5,9 +5,11 @@ Description
 -----------
 
 Allows the user to set properties of a mission objects Unity animator
-
-`                   The animator allows users to set key keyframe-able animations to control a large amount of components.`  
-`                   See `[`https://docs.unity3d.com/Manual/class-Animator.html`` ``Unity's`` ``documentation`](https://docs.unity3d.com/Manual/class-Animator.html_Unity's_documentation "wikilink")` for more details`
+The animator allows users to set key keyframe-able animations to control
+a large amount of components. See
+[https://docs.unity3d.com/Manual/class-Animator.html Unity's
+documentation](https://docs.unity3d.com/Manual/class-Animator.html_Unity's_documentation "wikilink")
+for more details
 
 Functions
 ---------
@@ -133,7 +135,3 @@ Animator.GetInt(missionObjectName, parameterName)
 **Description**: Gets the current value of a int parameter by name
 
 **Returns**: The current int value of the parameter
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

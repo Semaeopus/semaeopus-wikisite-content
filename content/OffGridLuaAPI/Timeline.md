@@ -112,7 +112,3 @@ Timeline.UnpauseAI(characterName)
 
 **Notes**: Bit of a hack for Timeline use, this might get removed later
 on!
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

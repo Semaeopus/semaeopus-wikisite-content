@@ -126,7 +126,3 @@ to certain network types
 | PopupType.warning  | A warning to the player       |
 | PopupType.download | Begin a timed download window |
 | PopupType.progress | Trigger a progress bar        |
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

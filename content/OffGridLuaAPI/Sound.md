@@ -52,7 +52,3 @@ playign on this object
 **Notes**: You need to have started an audio event on this object before
 tryign to use SetRTPC, and that event must have RTPC control for
 something.
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

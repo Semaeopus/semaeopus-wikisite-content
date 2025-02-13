@@ -6,9 +6,8 @@ Description
 
 The Devices API is used to control the behavior of provided devices in
 the level kit each of these calls will have a slightly different
-response to each of these calls.
-
-`                   Please see the devices page for a full break down.`
+response to each of these calls. Please see the devices page for a full
+break down.
 
 Functions
 ---------
@@ -302,7 +301,3 @@ Devices.CheckPlayerAccess(deviceName)
 **Description**: Check if the PLayer has access to a Device
 
 **Returns**: Device access type
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54

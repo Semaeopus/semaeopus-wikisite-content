@@ -64,7 +64,3 @@ Scheduler.CallAtTime(func, dateTimeString)
 (defined by a date/time string formatted as dd/MM/yyyy/HH:mm)
 
 **Returns**: The id of the scheduled event
-
-This file is auto generated, please don't edit manually!
-
-**Docs last hacked together on**: 09/12/2024 12:54
