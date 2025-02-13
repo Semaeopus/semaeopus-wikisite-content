@@ -7,7 +7,7 @@ Description
 Allows the user to set properties of a mission objects Unity animator
 The animator allows users to set key keyframe-able animations to control
 a large amount of components. See
-[https://docs.unity3d.com/Manual/class-Animator.html Unity's
+[https://docs.unity3d.com/Manual/class-Animator.html | Unity's
 documentation](https://docs.unity3d.com/Manual/class-Animator.html_Unity's_documentation "wikilink")
 for more details
 
